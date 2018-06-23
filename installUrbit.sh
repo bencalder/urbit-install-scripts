@@ -15,8 +15,6 @@ sudo mkswap /swapfile
 
 sudo swapon /swapfile
 
-sudo swapon --show
-
 sudo cp /etc/fstab /etc/fstab.bak
 
 
