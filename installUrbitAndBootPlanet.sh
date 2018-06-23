@@ -3,7 +3,7 @@
 
 
 # get planet and ticket
-echo Enter your planet name \(include the tilde and hyphen, e.g. ~mirfet-hocbyt\)
+echo Enter your planet name \(include the tilde and hyphen, e.g. \~mirfet-hocbyt\)
 read planetname
 echo Enter your ticket \(include the tilde and hyphens here too\)
 read ticket
