@@ -2,6 +2,7 @@
 # install and boot urbit
 
 
+# get planet and ticket
 echo Enter your planet name
 read planetname
 echo Enter your ticket
