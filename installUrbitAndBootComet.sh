@@ -1,12 +1,10 @@
 #!/bin/bash
-# install and boot urbit
+# install urbit and boot comet
 
 
-# get planet and ticket
-echo Enter your planet name
-read planetname
-echo Enter your ticket
-read ticket
+# get comet name
+echo Enter a name for your comet
+read cometname
 
 
 # swap file
@@ -48,4 +46,4 @@ urbit
 
 
 # boot
-urbit -w $planetname -t $ticket
+urbit -c $cometname
