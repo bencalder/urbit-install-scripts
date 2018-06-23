@@ -1,4 +1,4 @@
-# bash-scripts
+# Urbit installation in one command
 
 To install Urbit on your machine run this command
 
