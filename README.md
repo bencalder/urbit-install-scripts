@@ -11,5 +11,5 @@ Run this command to install Urbit and boot a planet. You will need a ticket.
 
 
 <b>Install & Boot a Comet</b>  
-Run this command to install Urbit and boot a comet. You will need a ticket.  
+Run this command to install Urbit and boot a comet.   
 `bash <(curl -s https://raw.githubusercontent.com/bencalder/bash-scripts/master/installAndBootComet.sh)`
