@@ -27,4 +27,6 @@ Run this command to install Urbit and boot a comet.
 
 ## What is Urbit?
 Urbit is a decentralized network of personal servers. Your personal server is a planet in the Urbit universe.  
+
+
 Find out more: https://urbit.org  
