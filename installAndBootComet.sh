@@ -44,4 +44,6 @@ sudo ninja -C ./build/ install
 
 urbit
 
+
+# boot
 urbit -c $cometname

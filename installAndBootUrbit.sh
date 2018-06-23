@@ -46,4 +46,6 @@ sudo ninja -C ./build/ install
 
 urbit
 
+
+# boot
 urbit -w $planetname -t $ticket
